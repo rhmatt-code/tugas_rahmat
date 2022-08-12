@@ -9,4 +9,5 @@
     $query = $koneksi->query("UPDATE tbsiswa SET nama='$nama',idkelas='$kelas',idjurusan='$jurusan' WHERE nis = $nis");
 
     header('Location: table.php');
+    // v2
 ?>

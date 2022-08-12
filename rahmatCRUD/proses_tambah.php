@@ -9,4 +9,5 @@
     $query = $koneksi->query("insert into tbsiswa values('$nis','$nama','$kelas','$jurusan')");
 
     header('Location: table.php');
+    // v2
 ?>
