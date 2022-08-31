@@ -2,5 +2,5 @@
     session_start();
 
     $_SESSION["username"] = "rahmat";
-    $_SESSION["id"] = "1";
+    $_SESSION["ID"] = "1";
 ?>
