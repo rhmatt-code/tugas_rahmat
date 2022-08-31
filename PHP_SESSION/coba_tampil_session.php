@@ -3,5 +3,5 @@
 
     echo $_SESSION["username"];
     echo "<br>";
-    echo $_SESSION["id"];
+    echo $_SESSION["ID"];
 ?>
