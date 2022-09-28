@@ -8,4 +8,9 @@ class Answer {
      echo "this is destruct";
    }
 }
+$answerno2 = new Answer();
+
+    echo "<br>";
+    unset($answerno2);
+    echo "<br>";
 ?>
