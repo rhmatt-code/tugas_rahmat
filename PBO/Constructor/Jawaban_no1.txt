@@ -1,0 +1,5 @@
+1. Apa itu Constructor ?
+    Constructor adalah method khusus yang akan dieksekusi pada saat pembuatan objek (instance). Biasanya method ini digunakan untuk inisialisasi atau mempersiapkan data untuk objek.
+2. Apa itu Destructor ?
+    Destructor adalah method khusus yang dijalankan secara otomatis pada saat sebuah objek dihapus.
+
